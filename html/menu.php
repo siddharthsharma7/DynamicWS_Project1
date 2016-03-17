@@ -1,5 +1,5 @@
 <?php
-$dom = simplexml_load_file("menu.xml");
+$dom = simplexml_load_file("../data/menu.xml");
 foreach($dom->xpath("/menu/category") as $category)
 {
   if (  $category->name == $_POST["test"]) {

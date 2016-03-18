@@ -1,22 +1,18 @@
 <?php
-function parent_tree()
+function populateMenu()
 {
-  print("<div class=categories>");
+  print("<div class=menu>");
   $dom = simplexml_load_file(DATA_DIR . "menu.xml");
   foreach($dom->xpath("/menu/category") as $category)
   {
-    print "<div class=categories>";
     print "<h2 class=category>";
     print $category->name;
     print "</h2>";
-    print "</div>";
     foreach($category->item as $item)
     {
-      print "<div class=item>";
-      print "<h3 >";
+      print "<h3 class=item>";
       print $item->item_name;
       print "</h3>";
-      print "</div>";
     }
   }
   print("</div>");

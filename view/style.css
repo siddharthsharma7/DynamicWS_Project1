@@ -1,95 +1,111 @@
 * {
   font: normal 1em Helvetica, Verdana, sans-serif;
-}
-div {
-  width: 100%;
-  overflow: hidden;
-}
-.categories{
-  padding: 0em;
-  text-align: center;
   align: center;
 }
 
-h1 {
+div
+{
+  overflow: hidden;
+  align: center;
+  padding:0;
+  margin: 0 auto;
+  max-width:600px;
+}
+
+h1
+{
   font: bold 4em Helvetica, Verdana, sans-serif;
   text-align: center;
   background-color: rgb(173,216,230);
   color: rgb(65,105,225)
 }
 
-h2 {
-  font: bold 1em Helvetica, Verdana, sans-serif;
-  margin: 0;
+h2
+{
+  font: bold 2em Helvetica, Verdana, sans-serif;
+  text-align: center;
+  color: rgb(139,0,0);
+}
+
+h3
+{
+  font: normal 1.2em Helvetica, Verdana, sans-serif;
+  text-align: center;
+}
+
+footer
+{
+  display: block;
+  background: orange;
+  position:fixed;
+  bottom:0;
+  width: 100%;
+  text-align: :center;
+}
+
+.menu
+{
+width: 75%;
+align:center;
+}
+
+.category
+{
   padding: 0;
-  width: 75%;
+  margin: 0;
+  background-color: rgb(205,150,150);
   align: center;
 }
 
-.item {
-  font: normal 1em Helvetica, Verdana, sans-serif;
+.item
+{
+  cursor: pointer;
   text-align: center;
   background-color: rgb(225,225,225);
-  width: 75%;
 }
 .item:hover {
   background-color: pink;
 }
 
-.category {
-  font: normal 2em Helvetica, Verdana, sans-serif;
-  cursor: pointer;
-  padding: 0em;
-  margin: 0;
-  background-color: rgb(205,92,92);
+.cart
+{
+  align:right;
+  width: 20%;
+  background-color: green;
 }
 
-h3 {
-  font: normal 1.5em Helvetica, Verdana, sans-serif;
-  text-align: center;
-  background-color: rgb(225,225,225);
-  width: 100%;
-}
 
-footer {
-    display: block;
-    background: orange;
-    position:fixed;
-    bottom:0;
-    width: 100%;
-    text-align: :center;
-}
 
 /*ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+list-style-type: none;
+margin: 0;
+padding: 0;
 }
 
 li {
-  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-  border-bottom: 1px solid #ccc;
+font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+border-bottom: 1px solid #ccc;
 }
 
 li:last-child {
-  border: none;
+border: none;
 }
 
 li a {
-  text-decoration: none;
-  color: #000;
-  display: block;
-  width: 200px;
+text-decoration: none;
+color: #000;
+display: block;
+width: 200px;
 
-  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
-  transition: font-size 0.3s ease, background-color 0.3s ease;
+-webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+-moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+-o-transition: font-size 0.3s ease, background-color 0.3s ease;
+-ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+transition: font-size 0.3s ease, background-color 0.3s ease;
 }
 
 li a:hover {
-  font-size: 30px;
-  background: #f6f6f6;
+font-size: 30px;
+background: #f6f6f6;
 }
 */

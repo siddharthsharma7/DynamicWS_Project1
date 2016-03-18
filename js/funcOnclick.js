@@ -1,3 +1,4 @@
+/*
 $(document).ready(function(){
     $(".category").click(function(){
         $(this).css("background-color","pink");
@@ -9,7 +10,7 @@ $(document).ready(function(){
 // handles the click event, sends the query
 function getOutput(c) {
    $.ajax({
-      url:'menu.php',
+      url:'../data/menu.php',
       type: 'post',
       data: {test: c},
       complete: function (response) {
@@ -18,3 +19,4 @@ function getOutput(c) {
   });
   return false;
 }
+*/

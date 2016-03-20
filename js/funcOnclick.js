@@ -1,6 +1,7 @@
 /*
 $(document).ready(function(){
-    $(".category").click(function(){
+    $(".category").click(function()
+    {
         $(this).css("background-color","pink");
       //  $(.items).text = $(this).text
         getOutput($(this).text());

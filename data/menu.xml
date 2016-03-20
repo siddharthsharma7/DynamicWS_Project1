@@ -1,318 +1,318 @@
 <menu>
   <category>
-  <name>Pizza</name>
+    <name>Pizza</name>
     <item>
-        <item_name>Tomato and Cheese</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>5.50</price>
-       </item_order>
+      <item_name>Tomato and Cheese</item_name>
       <item_order>
-           <size>Large</size>
-           <price>9.75</price>
+        <size>Small</size>
+        <price>5.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>9.75</price>
       </item_order>
     </item>
     <item>
-        <item_name>Onions</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>6.85</price>
-       </item_order>
+      <item_name>Onions</item_name>
       <item_order>
-           <size>Large</size>
-           <price>10.85</price>
+        <size>Small</size>
+        <price>6.85</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>10.85</price>
       </item_order>
     </item>
     <item>
-        <item_name>Peppers</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>6.85</price>
-       </item_order>
+      <item_name>Peppers</item_name>
       <item_order>
-           <size>Large</size>
-           <price>10.85</price>
+        <size>Small</size>
+        <price>6.85</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>10.85</price>
       </item_order>
     </item>
-  <item>
-        <item_name>Broccoli</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>6.85</price>
-       </item_order>
+    <item>
+      <item_name>Broccoli</item_name>
       <item_order>
-           <size>Large</size>
-           <price>10.85</price>
+        <size>Small</size>
+        <price>6.85</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>10.85</price>
       </item_order>
     </item>
   </category>
   <category>
-  <name>Speciality Pizzas</name>
+    <name>Speciality Pizzas</name>
     <category_order>
-        <category_size>Small</category_size>
-        <category_price>9.80</category_price>
+      <category_size>Small</category_size>
+      <category_price>9.80</category_price>
     </category_order>
     <category_order>
-        <category_size>Large</category_size>
-        <category_price>15.80</category_price>
+      <category_size>Large</category_size>
+      <category_price>15.80</category_price>
     </category_order>
     <item>
-        <item_name>Three Aces Special</item_name>
+      <item_name>Three Aces Special</item_name>
     </item>
     <item>
-        <item_name>Mediterranean</item_name>
-        <item_desc>Sliced Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella &amp; Feta Cheese</item_desc>
+      <item_name>Mediterranean</item_name>
+      <item_desc>Sliced Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella &amp; Feta Cheese</item_desc>
     </item>
     <item>
-        <item_name>Vegetarian</item_name>
-        <item_desc>Sliced Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella</item_desc>
+      <item_name>Vegetarian</item_name>
+      <item_desc>Sliced Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella</item_desc>
     </item>
     <item>
-        <item_name>Meat Lovers</item_name>
-        <item_desc>Pepperoni, Hamburg, Sausage &amp; Bacon</item_desc>
-    </item>
-  </category>
-
-  <category>
-  <name>Special Dinners</name>
-   <category_desc>All Dinners are served with French Fries and Salad*</category_desc>
-    <item>
-        <item_name>Chicken Wing Dinner</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
-    </item>
-    <item>
-        <item_name>Gyro Plate</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
-    </item>
-    <item>
-        <item_name>Chicken Finger Plate</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
-    </item>
-    <item>
-        <item_name>3 Piece Chicken Dinner</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
+      <item_name>Meat Lovers</item_name>
+      <item_desc>Pepperoni, Hamburg, Sausage &amp; Bacon</item_desc>
     </item>
   </category>
 
   <category>
-  <name>Side Orders</name>
+    <name>Special Dinners</name>
+    <category_desc>All Dinners are served with French Fries and Salad*</category_desc>
     <item>
-        <item_name>Onion Rings</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>2.60</price>
-       </item_order>
+      <item_name>Chicken Wing Dinner</item_name>
       <item_order>
-           <size>Large</size>
-           <price>2.95</price>
+        <price>7.25</price>
       </item_order>
     </item>
     <item>
-        <item_name>French Fries</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>2.25</price>
-       </item_order>
+      <item_name>Gyro Plate</item_name>
       <item_order>
-           <size>Large</size>
-           <price>2.65</price>
+        <price>7.25</price>
       </item_order>
     </item>
     <item>
-        <item_name>Spicy Fries</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>2.60</price>
-       </item_order>
+      <item_name>Chicken Finger Plate</item_name>
       <item_order>
-           <size>Large</size>
-           <price>2.95</price>
+        <price>7.25</price>
       </item_order>
     </item>
     <item>
-        <item_name>Chicken Wings</item_name>
+      <item_name>3 Piece Chicken Dinner</item_name>
       <item_order>
-           <size>Large</size>
-           <price>5.75</price>
+        <price>7.25</price>
       </item_order>
     </item>
   </category>
 
   <category>
-  <name>Salads</name>
+    <name>Side Orders</name>
     <item>
-        <item_name>Garden</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>3.50</price>
-       </item_order>
+      <item_name>Onion Rings</item_name>
       <item_order>
-           <size>Large</size>
-           <price>4.50</price>
+        <size>Small</size>
+        <price>2.60</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>2.95</price>
       </item_order>
     </item>
     <item>
-        <item_name>Greek</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>4.50</price>
-       </item_order>
+      <item_name>French Fries</item_name>
       <item_order>
-           <size>Large</size>
-           <price>5.50</price>
+        <size>Small</size>
+        <price>2.25</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>2.65</price>
       </item_order>
     </item>
     <item>
-        <item_name>Antipasto</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>4.50</price>
-       </item_order>
+      <item_name>Spicy Fries</item_name>
       <item_order>
-           <size>Large</size>
-           <price>5.50</price>
+        <size>Small</size>
+        <price>2.60</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>2.95</price>
       </item_order>
     </item>
-  <item>
-        <item_name>Chef</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>4.50</price>
-       </item_order>
+    <item>
+      <item_name>Chicken Wings</item_name>
       <item_order>
-           <size>Large</size>
-           <price>5.50</price>
+        <size>Large</size>
+        <price>5.75</price>
       </item_order>
     </item>
   </category>
 
   <category>
-  <name>Spaghetti or Ziti</name>
+    <name>Salads</name>
     <item>
-        <item_name>With Sauce</item_name>
-        <item_order>
-           <price>5.40</price>
-       </item_order>
+      <item_name>Garden</item_name>
+      <item_order>
+        <size>Small</size>
+        <price>3.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>4.50</price>
+      </item_order>
     </item>
     <item>
-        <item_name>With Sausage</item_name>
-        <item_order>
-           <price>6.45</price>
-       </item_order>
+      <item_name>Greek</item_name>
+      <item_order>
+        <size>Small</size>
+        <price>4.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>5.50</price>
+      </item_order>
     </item>
-   <item>
-        <item_name>With Meat Ball</item_name>
-        <item_order>
-           <price>6.45</price>
-       </item_order>
+    <item>
+      <item_name>Antipasto</item_name>
+      <item_order>
+        <size>Small</size>
+        <price>4.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>5.50</price>
+      </item_order>
     </item>
-   <item>
-        <item_name>A La Three Aces</item_name>
-       <item_desc>Sausage, Mushrooms, Bacon  Ham Topped with Sauce &amp; Mozzarella Cheese</item_desc>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
+    <item>
+      <item_name>Chef</item_name>
+      <item_order>
+        <size>Small</size>
+        <price>4.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>5.50</price>
+      </item_order>
     </item>
-   </category>
+  </category>
 
   <category>
-  <name>Homemade Calzones</name>
+    <name>Spaghetti or Ziti</name>
     <item>
-        <item_name>With Sauce</item_name>
-        <item_order>
-           <price>6.25</price>
-       </item_order>
+      <item_name>With Sauce</item_name>
+      <item_order>
+        <price>5.40</price>
+      </item_order>
     </item>
     <item>
-        <item_name>With Sausage</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
+      <item_name>With Sausage</item_name>
+      <item_order>
+        <price>6.45</price>
+      </item_order>
     </item>
-   <item>
-        <item_name>With Meatball</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
+    <item>
+      <item_name>With Meat Ball</item_name>
+      <item_order>
+        <price>6.45</price>
+      </item_order>
     </item>
-   <item>
-        <item_name>With Veal</item_name>
-        <item_order>
-           <price>7.25</price>
-       </item_order>
+    <item>
+      <item_name>A La Three Aces</item_name>
+      <item_desc>Sausage, Mushrooms, Bacon  Ham Topped with Sauce &amp; Mozzarella Cheese</item_desc>
+      <item_order>
+        <price>7.25</price>
+      </item_order>
+    </item>
+  </category>
+
+  <category>
+    <name>Homemade Calzones</name>
+    <item>
+      <item_name>With Sauce</item_name>
+      <item_order>
+        <price>6.25</price>
+      </item_order>
+    </item>
+    <item>
+      <item_name>With Sausage</item_name>
+      <item_order>
+        <price>7.25</price>
+      </item_order>
+    </item>
+    <item>
+      <item_name>With Meatball</item_name>
+      <item_order>
+        <price>7.25</price>
+      </item_order>
+    </item>
+    <item>
+      <item_name>With Veal</item_name>
+      <item_order>
+        <price>7.25</price>
+      </item_order>
     </item>
   </category>
   <category>
-  <name>Wraps</name>
+    <name>Wraps</name>
     <category_order>
-        <category_price>4.95</category_price>
+      <category_price>4.95</category_price>
     </category_order>
     <item>
-        <item_name>Turkey Club Wrap</item_name>
-        <item_desc>Turkey, Cheese, Lettuce, Tomato, Onion, Mayo</item_desc>
+      <item_name>Turkey Club Wrap</item_name>
+      <item_desc>Turkey, Cheese, Lettuce, Tomato, Onion, Mayo</item_desc>
     </item>
     <item>
-        <item_name>Chicken Cobb</item_name>
-        <item_desc>Grilled Chicken, Bacon, Cheese, lettuce, Tomato, Onion, Honey Mustard</item_desc>
+      <item_name>Chicken Cobb</item_name>
+      <item_desc>Grilled Chicken, Bacon, Cheese, lettuce, Tomato, Onion, Honey Mustard</item_desc>
     </item>
     <item>
-        <item_name>Greek Supreme</item_name>
-        <item_desc>Feta Cheese, Black Olives, Lettuce, Tomato, Onion, Greek Dressing</item_desc>
+      <item_name>Greek Supreme</item_name>
+      <item_desc>Feta Cheese, Black Olives, Lettuce, Tomato, Onion, Greek Dressing</item_desc>
     </item>
     <item>
-        <item_name>Steak Wrap</item_name>
-   </item>
+      <item_name>Steak Wrap</item_name>
+    </item>
   </category>
   <category>
-  <name>Grinders</name>
+    <name>Grinders</name>
     <item>
-        <item_name>Meatless</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>4.50</price>
-       </item_order>
+      <item_name>Meatless</item_name>
       <item_order>
-           <size>Large</size>
-           <price>4.95</price>
+        <size>Small</size>
+        <price>4.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>4.95</price>
       </item_order>
     </item>
     <item>
-        <item_name>Hamburger</item_name>
-        <item_order>
-           <size>Small</size>
-           <price>4.50</price>
-       </item_order>
+      <item_name>Hamburger</item_name>
       <item_order>
-           <size>Large</size>
-           <price>4.95</price>
+        <size>Small</size>
+        <price>4.50</price>
       </item_order>
-    </item>
-      <item>
-        <item_name>Steak Bomb</item_name>
-        <item_desc> Each Additional Item on Steak Subs $0.25/ $0.40</item_desc>
-        <item_order>
-           <size>Small</size>
-           <price>5.50</price>
-       </item_order>
       <item_order>
-           <size>Large</size>
-           <price>6.50</price>
+        <size>Large</size>
+        <price>4.95</price>
       </item_order>
     </item>
     <item>
-        <item_name>Gyro On Pita</item_name>
-        <item_order>
-           <size>Large</size>
-           <price>5.50</price>
-       </item_order>
+      <item_name>Steak Bomb</item_name>
+      <item_desc> Each Additional Item on Steak Subs $0.25/ $0.40</item_desc>
+      <item_order>
+        <size>Small</size>
+        <price>5.50</price>
+      </item_order>
+      <item_order>
+        <size>Large</size>
+        <price>6.50</price>
+      </item_order>
+    </item>
+    <item>
+      <item_name>Gyro On Pita</item_name>
+      <item_order>
+        <size>Large</size>
+        <price>5.50</price>
+      </item_order>
     </item>
   </category>
 </menu>
